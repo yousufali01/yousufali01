@@ -1,5 +1,4 @@
-<img width="2048" height="768" alt="yousuf_banner" src="https://github.com/user-attachments/assets/3a430637-08d1-42aa-9512-b1eec889f238" />
-
+<img width="2048" height="768" alt="yousuf_banner" src="https://github.com/user-attachments/assets/f159fa1d-73f7-4864-9fe9-cdd75edf43d8" />
 
 ### 👨‍💻 About Me
 
