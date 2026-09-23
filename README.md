@@ -1,4 +1,5 @@
-<img width="2048" height="768" alt="Final Banner in GitHub " src="https://github.com/user-attachments/assets/9cf77a24-f96a-4767-bb3e-bc98a43b6195" />
+<img width="2048" height="768" alt="yousuf_banner" src="https://github.com/user-attachments/assets/3a430637-08d1-42aa-9512-b1eec889f238" />
+
 
 ### 👨‍💻 About Me
 
