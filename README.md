@@ -1,3 +1,4 @@
+<img width="2048" height="768" alt="Final Banner in GitHub " src="https://github.com/user-attachments/assets/9cf77a24-f96a-4767-bb3e-bc98a43b6195" />
 ## Hi there, I'm Yousuf Ali 👋
 
 💻 CSE Student at UIU | 🚀 Full-Stack Web Developer | 🔐 Cybersecurity Enthusiast
