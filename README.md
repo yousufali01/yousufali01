@@ -9,7 +9,12 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Yousuf Ali</h1>
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=false&width=650&height=65&lines=Hi+%F0%9F%91%8B%2C+I'm+Yousuf+Ali"
+    alt="Hi, I'm Yousuf Ali"
+  />
+</h1>
 
 <h3 align="center">
   CSE Student @ UIU | Full-Stack Web Developer | Cybersecurity Enthusiast
